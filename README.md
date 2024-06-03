@@ -1,1 +1,1 @@
-<img src="https://pbs.twimg.com/media/FSFcrqDXwAEXFOr.jpg"/>
+<img src="https://pbs.twimg.com/media/FSFcrqDXwAEXFOr.jpg" width="400"/>
